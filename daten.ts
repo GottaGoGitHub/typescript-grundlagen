@@ -1,0 +1,7 @@
+export const orders = [
+  { id: 1, customer: "Anna", total: 49.9, status: "paid" },
+  { id: 2, customer: "Ben", total: 15.0, status: "open" },
+  { id: 3, customer: "Anna", total: 120.5, status: "paid" },
+  { id: 4, customer: "Cem", total: 80.0, status: "cancelled" },
+  { id: 5, customer: "Ben", total: 33.3, status: "paid" },
+];
